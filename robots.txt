@@ -1,0 +1,24 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://cekanado.github.io/sitemap/sitemap_index.cekanado
+Sitemap: https://cekanado.github.io/MPk/sitemap_index.cekanado
+Sitemap: https://cekanado.github.io/QLn/sitemap_index.cekanado
+Sitemap: https://cekanado.github.io/IPO/sitemap_index.cekanado
+Sitemap: https://cekanado.github.io/KOQ/sitemap_index.cekanado
+Sitemap: https://cekanado.github.io/gJE/sitemap_index.cekanado
+Sitemap: https://cekanado.github.io/DMb/sitemap_index.cekanado
+Sitemap: https://cekanado.github.io/dyA/sitemap_index.cekanado
+Sitemap: https://cekanado.github.io/LeA/sitemap_index.cekanado
+Sitemap: https://cekanado.github.io/nDu/sitemap_index.cekanado
+Sitemap: https://cekanado.github.io/wbZ/sitemap_index.cekanado
+Sitemap: https://cekanado.github.io/LGO/sitemap_index.cekanado
+Sitemap: https://cekanado.github.io/taW/sitemap_index.cekanado
+Sitemap: https://cekanado.github.io/jJT/sitemap_index.cekanado
+Sitemap: https://cekanado.github.io/RDd/sitemap_index.cekanado
+Sitemap: https://cekanado.github.io/opm/sitemap_index.cekanado
+Sitemap: https://cekanado.github.io/Vda/sitemap_index.cekanado
+Sitemap: https://cekanado.github.io/PAR/sitemap_index.cekanado
+Sitemap: https://cekanado.github.io/QcC/sitemap_index.cekanado
+Sitemap: https://cekanado.github.io/hYJ/sitemap_index.cekanado
+Sitemap: https://cekanado.github.io/toD/sitemap_index.cekanado
